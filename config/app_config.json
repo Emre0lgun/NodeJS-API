@@ -1,0 +1,13 @@
+{
+  "sequelize": {
+    "database": "node",
+    "username": "root",
+    "password": "",
+    "host": "localhost"
+  },
+  "app": {
+    "secret": "my_very_very_secret_key",
+    "cookie-name": "app-token",
+    "client-host": "http://localhost:3000"
+  }
+}
